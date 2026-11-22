@@ -36,6 +36,7 @@ The second part introduces natural language processing and the transformer archi
 
 1. [Transformer text generation](Part%202/01-transformer-text-generation.ipynb) — Tokenizes text, builds a vocabulary, and trains a TensorFlow transformer to predict words and generate new text.
 2. [GPT-2 fine-tuning](Part%202/02-gpt2-fine-tuning.ipynb) — Generates text with a pre-trained GPT-2 model, fine-tunes it on a custom corpus, and compares the results.
+3. [GPT-2 text-generation mini-project](Part%202/03-gpt2-text-generation-mini-project.ipynb) — Fine-tunes GPT-2 on *The Great Gatsby* and records observations about the generated text before and after fine-tuning.
 
 #### Text datasets
 
