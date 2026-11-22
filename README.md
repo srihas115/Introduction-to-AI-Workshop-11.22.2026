@@ -30,6 +30,13 @@ The first part of the workshop introduces neural networks with TensorFlow and pr
 3. [Convolutional neural network](Part%201/03-convolutional-neural-network.ipynb) — Improves MNIST digit recognition with convolution and pooling layers.
 4. [Fashion-MNIST mini-project](Part%201/04-fashion-mnist-mini-project.ipynb) — Applies dense and convolutional models to clothing image classification.
 
+### Part 2: Transformers and text generation
+
+The second part introduces natural language processing and the transformer architecture used by modern large language models.
+
+- [Transformer text generation](Part%202/01-transformer-text-generation.ipynb) — Tokenizes text, builds a vocabulary, and trains a TensorFlow transformer to predict words and generate new text.
+- [The Red-Headed League dataset](Part%202/Data/TheRedHeadedLeague.txt) — The Sherlock Holmes story used as the notebook's training text.
+
 ## Submitted application
 
 The application response was submitted on November 19, 2026.
