@@ -19,6 +19,17 @@ The workshop is open to all UIC undergraduate students. Preference is given to s
 
 Read about a [previous UIC workshop](https://cs.uic.edu/news-stories/workshop-allows-students-to-explore-data-science/).
 
+## Workshop materials
+
+### Part 1: Neural networks and image classification
+
+The first part of the workshop introduces neural networks with TensorFlow and progresses from a basic model to convolutional image classification.
+
+1. [Simple neural network](Part%201/01-simple-neural-network.ipynb) — Builds a single-neuron model that learns a numerical relationship.
+2. [Handwritten digit classification](Part%201/02-handwritten-digit-classification.ipynb) — Trains a dense neural network to classify handwritten digits from the MNIST dataset.
+3. [Convolutional neural network](Part%201/03-convolutional-neural-network.ipynb) — Improves MNIST digit recognition with convolution and pooling layers.
+4. [Fashion-MNIST mini-project](Part%201/04-fashion-mnist-mini-project.ipynb) — Applies dense and convolutional models to clothing image classification.
+
 ## Submitted application
 
 The application response was submitted on November 19, 2026.
