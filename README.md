@@ -37,7 +37,12 @@ The second part introduces natural language processing and the transformer archi
 1. [Transformer text generation](Part%202/01-transformer-text-generation.ipynb) — Tokenizes text, builds a vocabulary, and trains a TensorFlow transformer to predict words and generate new text.
 2. [GPT-2 fine-tuning](Part%202/02-gpt2-fine-tuning.ipynb) — Generates text with a pre-trained GPT-2 model, fine-tunes it on a custom corpus, and compares the results.
 
-**Dataset:** [The Red-Headed League](Part%202/Data/TheRedHeadedLeague.txt), the Sherlock Holmes story used as training text by both notebooks.
+#### Text datasets
+
+The Part 2 notebooks accept an uploaded plain-text corpus for training or fine-tuning.
+
+- [The Red-Headed League](Part%202/Data/TheRedHeadedLeague.txt) — A Sherlock Holmes story provided as model-ready plain text.
+- *The Great Gatsby* by F. Scott Fitzgerald — Provided as [model-ready plain text](Part%202/Data/the-great-gatsby.txt) and a [193-page PDF source](Part%202/Data/the-great-gatsby.pdf).
 
 ## Submitted application
 
