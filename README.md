@@ -1,6 +1,6 @@
 # Introduction to AI Workshop — Fall 2026
 
-This repository contains materials related to UIC's **Introduction to AI Workshop** and the submitted application. The original application response is available in [Introduction to AI Workshop Application.pdf](Introduction%20to%20AI%20Workshop%20Application.pdf).
+This repository contains the notebooks and datasets used for UIC's **Introduction to AI Workshop**.
 
 ## Workshop overview
 
@@ -44,42 +44,3 @@ The Part 2 notebooks accept an uploaded plain-text corpus for training or fine-t
 
 - [The Red-Headed League](Part%202/Data/TheRedHeadedLeague.txt) — A Sherlock Holmes story provided as model-ready plain text.
 - *The Great Gatsby* by F. Scott Fitzgerald — Provided as [model-ready plain text](Part%202/Data/the-great-gatsby.txt) and a [193-page PDF source](Part%202/Data/the-great-gatsby.pdf).
-
-## Submitted application
-
-The application response was submitted on November 19, 2026.
-
-### Applicant information
-
-| Field | Response |
-| --- | --- |
-| UIC email | [pgupt50@uic.edu](mailto:pgupt50@uic.edu) |
-| First name | Pendekanti Srihas |
-| Last name | Gupta |
-| Major | Computer Science |
-| Minor | Math |
-| Gender | Male |
-| Race and ethnicity | Asian |
-| First-generation college student | Yes |
-
-### Academic and programming background
-
-- **Best description:** Declared Computer Science major
-- **Highest Computer Science course level taken:** 300 level
-- **Python experience:** Has programming experience in Python
-- **Computer Science courses:**
-  - Fall 2025: CS 151, CS 277
-  - Spring 2026: CS 211, CS 251, CS 218 (formerly CS 294)
-  - Fall 2026: CS 301, CS 377, CS 261
-
-### Availability
-
-Can attend the workshop in person and participate fully from 9:00 a.m. to 4:00 p.m.
-
-### Interest in the workshop
-
-I'm interested in participating in this workshop because, although I have experience working on AI and machine learning projects using Python, I want to deepen my understanding of the underlying concepts and gain the confidence to independently develop AI applications beyond coursework and internships. I'm particularly excited to gain hands-on experience with PyTorch, neural networks, image classification, and text generation, as I want to explore the mathematical and statistical foundations of machine learning rather than limiting my understanding of AI to high-level tools and prompt engineering. As a co-lead of ACM UIC's AI Fluency SIG, where I introduce students to emerging AI tools and ways to improve their workflows, I also want to better understand how these technologies work behind the scenes so I can share that knowledge with others. Beyond learning the technical fundamentals, I'm interested in understanding how AI models are researched, trained, fine-tuned, and ultimately integrated into real-world products, especially within the rapidly growing AI startup ecosystem. Finally, as I'll be transferring to UIUC's Statistics and Computer Science program next semester from a traditional Computer Science major, I see this workshop as a valuable opportunity to strengthen my machine learning foundation, prepare for the program's greater emphasis on statistics and AI, and gain practical experience that I can build upon in future independent projects.
-
-### How the applicant heard about the workshop
-
-CS 301 Piazza post.
